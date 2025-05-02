@@ -15,6 +15,7 @@ deprecation==2.1.0
 distro==1.9.0
 Flask==3.1.0
 flask-cors==5.0.1
+flask_login
 frozenlist==1.6.0
 google-api-core==2.24.2
 google-api-python-client==2.169.0
